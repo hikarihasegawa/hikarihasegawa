@@ -2,6 +2,10 @@
 
 ### Building software that belongs to its users.
 
+Independent and self-funded — if my work saves you time, you can buy me a coffee:
+
+<a href="https://ko-fi.com/hikari22"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee on Ko-fi" height="32"></a>
+
 Hikari Hasegawa is an independent open-source software initiative focused on building **free, useful and transparent software** designed around user ownership.
 
 The goal is simple:
